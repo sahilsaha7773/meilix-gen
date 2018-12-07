@@ -29,6 +29,10 @@ body {
   padding-bottom: 40px;
 }
 
+.s {
+  margin-top: 10px;
+ }
+
 .custom-navbar {
   padding: 10px 15px;
   border-bottom: 1px solid #bfbfbf;
